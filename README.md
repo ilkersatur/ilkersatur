@@ -64,6 +64,7 @@
 
 ## Connect with me  
 <div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="width:60%" align="center" />
 <a href="https://github.com/https://github.com/ilkersatur" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -84,17 +85,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkersatur&hide_border=true&theme=radical&layout=compact" align="left" style="width: 40% "/>  
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilkersatur&cover_image=true&theme=default&show_offline=true&background_color=141321&bar_color=53b14f&bar_color_cover=true" /></div> 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilkersatur&cover_image=true&theme=default&show_offline=true&background_color=141321&bar_color=53b14f&bar_color_cover=true"  /></div> 
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ilkersatur&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" align="center" />
-</div> 
+</div>
