@@ -1,27 +1,20 @@
-<div align="center">
-<img src="https://lh3.googleusercontent.com/pw/AL9nZEXl4fnJJXfnxzMk4G_IXhJ6Xacp9RP2SvI7tI0titrbD5TeJ4GvjJl2LI7ZTg5BI3GpEsYzzLAYDkJimavDgJ2QUaE-7BrKtvEQktRhTuZ4kBbKZ4ngi5E46_-HliVYazbnqlWBFFk2T5OZCX15xqwUnw=w705-h248-no?authuser=0" align="center" style="width: 50%" />
+<div align="right">
+<img src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/coding.gif?raw=true" align="right" />
 </div>  
-  
 
-### <div align="center">I'm İlker, a full-time full-stack developer 💻</div>  
-  
+<h4>I'm İlker, a full-time full-stack developer 👨‍💻</h4>
 
-- 🤖 I am a graduate of mechatronics engineering in 2022  
+<h6>
+● 🛠 I am a graduate of mechatronics engineering in 2022  </h6>
   
-
-- 🌱 I’m currently learning web development for 2 years  
-  
-
+<h6>
+● 🌱 I’m currently learning software development for 2 years  </h6>
+ 
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/css.png?raw=true" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/html.png?raw=true" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/js.png?raw=true" alt="JavaScript" height="50" /></a>  
@@ -31,24 +24,20 @@
   <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/xml.png?raw=true" alt="XML" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
-
-
 
 ### Backend  
-<div align="center">  
+<div align="left">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/c%23.png?raw=true" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/core.png?raw=trueg" alt=".Net Core" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/c.png?raw=true" alt="C" height="50" /></a>   
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/python.png?raw=true" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
 ### DevOps  
-<div align="center">
+<div align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/Azure.png?raw=true" alt="Azure" height="50" /></a>  
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/sql.png?raw=true" alt="SQL Server" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/arduino.png?raw=true" alt="Arduino" height="50" /></a>  
@@ -57,7 +46,6 @@
 <a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/asm.png?raw=true" alt="As" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 <br/>  
 
 ## Connect with me  
