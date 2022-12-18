@@ -22,13 +22,13 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/css.png?raw=true" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/html.png?raw=true" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/js.png?raw=true" alt="JavaScript" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a> <a href="https://www.json.org/json-en.html" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="JSON" height="50" /></a>
- <a href="https://web.archive.org/web/20080705082025/http://ajaks.googlecode.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" alt="AJAX" height="50" /></a>
-  <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/187/187684.png" alt="XML" height="50" /></a>
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/jq.png?raw=true" alt="jQuery" height="50" /></a> <a href="https://www.json.org/json-en.html" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/json.png?raw=true" alt="JSON" height="50" /></a>
+ <a href="https://web.archive.org/web/20080705082025/http://ajaks.googlecode.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/ajax.png?raw=true" alt="AJAX" height="50" /></a>
+  <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/xml.png?raw=true" alt="XML" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
