@@ -47,14 +47,9 @@
 </div>
 
 ## Connect with me  
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="width:50%" align="right" />
-<a href="https://github.com/https://github.com/ilkersatur" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" align="left"/></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ilkersatur/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" align="left"/></a>
-<a href="https://instagram.com/https://www.instagram.com/ilkersatur/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"align="left"/></a>
+<div align="left">
+<a href="https://www.linkedin.com/in/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/ln.png?raw=true" alt="Linkedin" height="40" /></a>  
+<a href="https://www.instagram.com/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/inst.png?raw=true" alt="Instagram" height="40" /></a> 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=ilkersatur&&style=flat-square" align="left"  />
   
