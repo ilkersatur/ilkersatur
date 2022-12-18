@@ -49,13 +49,12 @@
 
 ### DevOps  
 <div align="center">
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
- <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://logo-marque.com/wp-content/uploads/2020/12/MATLAB-Symbole.png" alt="MATLAB" height="50" /></a>
-<a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank"><img style="margin: 10px" src="https://lh3.googleusercontent.com/pw/AL9nZEVjFgolaauodKPVfUdqPuge_Kyv-ACQKD57hGtxJwpRLDbk5HnqcKw4eh1oNf3rQ6yMGXGXYJuO7mmezAl5xwP_GcmqfY_oihs5Q-dQJ1GlF3XcbAEbUUFJzWi4zRSF15wiFYA4EuwxwpnJMM9cW8Gs7A=w728-h724-no?authuser=0" alt="As" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/Azure.png?raw=true" alt="Azure" height="50" /></a>  
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/sql.png?raw=true" alt="SQL Server" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/arduino.png?raw=true" alt="Arduino" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/unity.png?raw=true" alt="Unity" height="50" /></a>  
+ <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/matlab.png?raw=true" alt="MATLAB" height="50" /></a>
+<a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/asm.png?raw=true" alt="As" height="50" /></a>  
 </div>
 
 </td></tr></table>  
