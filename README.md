@@ -64,8 +64,4 @@
 <br/>  <br/>   
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ilkersatur&show_icons=true&theme=radical&count_private=true&hide_border=true" align="right"style="width: 48%" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkersatur&hide_border=true&theme=radical&layout=compact" align="left" style="width: 40% "/>  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilkersatur&cover_image=true&theme=natemoo-re&show_offline=true&background_color=c3a2a2&bar_color=21ea1a&bar_color_cover=false"  /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ilkersatur&show_icons=true&theme=radical&count_private=true&hide_border=true" align="right"style="width: 48%" /></div>
