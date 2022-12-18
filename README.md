@@ -58,10 +58,4 @@
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=ilkersatur&&style=flat-square" align="left"  />
   
-</div>  
-  
-
-<br/>  <br/>   
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ilkersatur&show_icons=true&theme=radical&count_private=true&hide_border=true" align="right"style="width: 48%" /></div>
+</div>
