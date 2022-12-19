@@ -1,4 +1,3 @@
-
 <img src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/coding1.gif?raw=true" align="left"/>
 
 
