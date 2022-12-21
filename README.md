@@ -45,11 +45,19 @@
 <a href="https://www.json.org/json-en.html" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/json.png?raw=true" alt="JSON" height="40" /></a>
 </div>
 
+
+
+## 
+<img src="https://user-images.githubusercontent.com/117676317/208972917-8911151d-8e5b-4af0-9ea6-c160d264ed0d.png" height=150px align=right>
+I'm currently working on a 2D platform game in Unity. ⚔️ <br>
+<h6> &nbsp &nbsp &nbsp  I'm working this project alone.</h6>
+<h6> &nbsp &nbsp &nbsp  I need help about animation. 2D game artists can contact me ❤️❤️❤️</h6>
+
+
 ## Connect with me  
 <div align="left">
-<a href="https://www.linkedin.com/in/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/ln.png?raw=true" alt="Linkedin" height="40" /></a>  
-<a href="https://www.instagram.com/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/inst.png?raw=true" alt="Instagram" height="40" /></a> 
+<a href="https://www.linkedin.com/in/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/ln.png?raw=true" alt="Linkedin" height="30" /></a>  
+<a href="https://www.instagram.com/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/inst.png?raw=true" alt="Instagram" height="30" /></a> 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=ilkersatur&&style=flat-square" align="left"  />
-  
 </div>
