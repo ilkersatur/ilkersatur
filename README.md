@@ -47,13 +47,6 @@
 
 
 
-## 
-<img src="https://user-images.githubusercontent.com/117676317/208972917-8911151d-8e5b-4af0-9ea6-c160d264ed0d.png" height=150px align=right>
-I'm currently working on a 2D platform game in Unity. ⚔️ <br>
-<h6> &nbsp &nbsp &nbsp  I'm working this project alone. 🏹 </h6>
-<h6> &nbsp &nbsp &nbsp  I need help about animation. 2D game artists can contact me ❤️❤️❤️</h6>
-
-
 ## Connect with me  
 <div align="left">
 <a href="https://www.linkedin.com/in/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/ln.png?raw=true" alt="Linkedin" height="30" /></a>  
