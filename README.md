@@ -26,7 +26,7 @@
 <div align="left">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/c%23.png?raw=true" alt="C#" height="40" /></a>
 <img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/asp.png?raw=true" alt="asp" height="40" />
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/core.png?raw=trueg" alt=".Net Core" height="40" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".Net Core" height="40" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/c.png?raw=true" alt="C" height="40" /></a>   
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/python.png?raw=true" alt="Python" height="40" /></a>
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/sql.png?raw=true" alt="SQL Server" height="40" /></a>  
