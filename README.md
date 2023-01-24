@@ -52,4 +52,3 @@
 <div align="left">
 <a href="https://www.linkedin.com/in/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/ln.png?raw=true" alt="Linkedin" height="30" /></a>  
 <a href="https://www.instagram.com/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/inst.png?raw=true" alt="Instagram" height="30" /></a> 
-<br><br>
