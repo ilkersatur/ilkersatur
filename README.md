@@ -12,7 +12,6 @@
 ## My Skill Set
 <h4>&nbspFrontend</h4>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkersatur&layout=compact" align="right" style="width: 40% "/>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/css.png?raw=true" alt="CSS3" height="40" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/html.png?raw=true" alt="HTML5" height="40" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/js.png?raw=true" alt="JavaScript" height="40" /></a>  
@@ -52,3 +51,5 @@
 <div align="left">
 <a href="https://www.linkedin.com/in/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/ln.png?raw=true" alt="Linkedin" height="30" /></a>  
 <a href="https://www.instagram.com/ilkersatur/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/inst.png?raw=true" alt="Instagram" height="30" /></a> 
+
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkersatur&layout=compact" align="right" style="width: 40% "/>-->
