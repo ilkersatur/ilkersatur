@@ -7,7 +7,7 @@
 &nbsp &nbsp &nbsp ● 🛠 I am a graduate of mechatronics engineering in 2022  </h6>
   
 <h6>
-&nbsp &nbsp &nbsp ● 🌱 I’m currently learning software development for 2 years  </h6>
+&nbsp &nbsp &nbsp ● 🌱 I’m currently learning software development</h6>
  
 ## My Skill Set
 <h4>&nbspFrontend</h4>
