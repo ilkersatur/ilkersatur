@@ -8,6 +8,8 @@
   
 <h6>
 &nbsp &nbsp &nbsp ● 🌱 I’m currently learning software development</h6>
+
+<!--
  
 ## My Skill Set
 <h4>&nbspFrontend</h4>
@@ -19,7 +21,6 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/jq.png?raw=true" alt="jQuery" height="40" /></a> 
  <a href="https://web.archive.org/web/20080705082025/http://ajaks.googlecode.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/ajax.png?raw=true" alt="AJAX" height="40" /></a>
 </div>
-
 
 <h4>&nbspBackend</h4>
 <div align="left">  
@@ -45,7 +46,7 @@
 <a href="https://www.json.org/json-en.html" target="_blank"><img style="margin: 10px" src="https://github.com/ilkersatur/ilkersatur/blob/main/Icons/json.png?raw=true" alt="JSON" height="40" /></a>
 </div>
 
-
+-->
 
 ## Connect with me  
 <div align="left">
